@@ -93,4 +93,4 @@ performance in predicting customer churn.
 
 Data Analyst | Python | SQL | Power BI
 
-[LinkedIn](www.linkedin.com/in/danial-0a546634)
+[LinkedIn](https://www.linkedin.com/in/danial-0a546634)
