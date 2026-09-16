@@ -6,6 +6,16 @@ Customer churn analysis using Python and machine learning
 This project analyzes customer churn in a telecommunications company
 to identify factors that influence customer churn and provide
 data-driven insights that can support customer retention strategies.
+Customer churn is one of the major challenges faced by telecommunications companies. 
+Understanding why customers leave can help companies develop more effective customer 
+retention strategies and reduce potential revenue loss.
+
+In this project, I analyzed telecommunications customer data to identify factors associated 
+with customer churn and developed machine learning classification models to predict customer churn.
+
+The project combines **Exploratory Data Analysis (EDA)**, **data preprocessing**, 
+**class imbalance handling**, and **machine learning** to generate both analytical 
+and business insights.
 
 ## 🎯 Objectives
 
